@@ -1,0 +1,38 @@
+{
+  "name": "child_component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "bootstrap-loader": "^2.1.0",
+    "css-loader": "^0.26.1",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.3",
+    "classnames": "^2.2.6",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-scripts": "^2.1.8"
+  },
+  "devDependencies": {
+    "bootstrap-loader": "^2.1.0",
+    "css-loader": "^0.26.1",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.3",
+    "babel-preset-stage-1": "6.16.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-latest": "6.16.0",
+    "babel-preset-react-hmre": "1.1.1",
+    "babel-preset-react": "6.16.0"
+  }
+}
